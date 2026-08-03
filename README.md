@@ -1,4 +1,6 @@
-# tap-exact
+# tap-exact-internaldata
+
+### This tap is used only on our env: internaldata.hotglue.optiply.nl
 
 `tap-exact` is a Singer tap for Exact.
 
